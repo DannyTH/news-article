@@ -13,3 +13,6 @@ h2.introduction {
 p.introduction {
   font-weight: bold;
 }
+h3.introduction {
+  font-style: oblique;
+}
