@@ -16,3 +16,6 @@ p.introduction {
 h3.introduction {
   font-style: oblique;
 }
+img.introduction {
+  float: left;
+}
