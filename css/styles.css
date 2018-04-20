@@ -2,7 +2,11 @@ body {
   background-color: skyblue;
   float: left;
   margin-right: 50px;
-  border-color: solid black;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  padding: 50px;
 }
 h1.introduction {
   font-size: 350%;
