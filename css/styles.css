@@ -10,3 +10,6 @@ h2.introduction {
   color: blue;
   font-style: oblique;
 }
+p.introduction {
+  font-weight: bold;
+}
