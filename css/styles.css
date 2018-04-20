@@ -6,3 +6,7 @@ h1.introduction {
   font-style:italic;
   text-align: center;
 }
+h2.introduction {
+  color: blue;
+  font-style: oblique;
+}
